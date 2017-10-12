@@ -11,7 +11,7 @@
 <!-- Bootstrap CSS -->
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
-<link href="../css/album.css" rel="stylesheet">
+<link href="/WebClass/css/album.css" rel="stylesheet">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script
 	src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
@@ -23,7 +23,7 @@
 	crossorigin="anonymous"></script>
 <script
 	src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.min.js"></script>
-<script src="../js/myjs.js"></script>
+<script src="/WebClass/js/myjs.js"></script>
 <link rel="stylesheet" type="text/css" href="../css/mystyle.css">
 </head>
 <body>
@@ -105,16 +105,16 @@
 			<div class="row">
 				<div class="card">
 					<a href="cowdog1.html"><img class="img-responsive"
-						src="../image/justhis.jpg" alt="그러하다" width="300" height="300"></a>
+						src="/WebClass/image/justhis.jpg" alt="그러하다" width="300" height="300"></a>
 					<p class="card-text">hobby</p>
 				</div>
 				<div class="card">
-					<a href="cowdog2.html"><img src="../image/ss.jpg"
+					<a href="cowdog2.html"><img src="/WebClass/image/ss.jpg"
 						class="img-respnsive" alt="그러한가" width="300" height="300"></a>
 					<p class="card-text">like</p>
 				</div>
 				<div class="card">
-					<a href="cowdog3.html"><img src="../image/aa.jpg" alt="그러하였다"
+					<a href="cowdog3.html"><img src="/WebClass/image/aa.jpg" alt="그러하였다"
 						width="300" height="300"></a>
 					<p class="card-text">dream</p>
 				</div>
